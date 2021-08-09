@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tapis-listing-demo/static/css/main.a617e044.chunk.css",
+    "main.js": "/tapis-listing-demo/static/js/main.3e9f82f4.chunk.js",
+    "main.js.map": "/tapis-listing-demo/static/js/main.3e9f82f4.chunk.js.map",
+    "runtime-main.js": "/tapis-listing-demo/static/js/runtime-main.0a390a67.js",
+    "runtime-main.js.map": "/tapis-listing-demo/static/js/runtime-main.0a390a67.js.map",
+    "static/js/2.acea8580.chunk.js": "/tapis-listing-demo/static/js/2.acea8580.chunk.js",
+    "static/js/2.acea8580.chunk.js.map": "/tapis-listing-demo/static/js/2.acea8580.chunk.js.map",
+    "static/js/3.3ae9f3d3.chunk.js": "/tapis-listing-demo/static/js/3.3ae9f3d3.chunk.js",
+    "static/js/3.3ae9f3d3.chunk.js.map": "/tapis-listing-demo/static/js/3.3ae9f3d3.chunk.js.map",
+    "index.html": "/tapis-listing-demo/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/tapis-listing-demo/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.acea8580.chunk.js.LICENSE.txt": "/tapis-listing-demo/static/js/2.acea8580.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a390a67.js",
+    "static/js/2.acea8580.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3e9f82f4.chunk.js"
+  ]
+}
