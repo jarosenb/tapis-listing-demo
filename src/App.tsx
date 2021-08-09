@@ -1,7 +1,7 @@
 import './App.css';
 import { QueryClient, QueryClientProvider } from 'react-query';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Link,

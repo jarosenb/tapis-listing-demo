@@ -10,7 +10,6 @@ export async function listFiles(
       'x-tapis-token': Cookies.get('swr-token') || ''
     }
   });
-  console.log('starting file listing')
   const api = new Files.FileOperationsApi(config);
   const response = await api.listFiles(params);
   return response;
